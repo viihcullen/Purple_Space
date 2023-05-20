@@ -14,12 +14,9 @@ export default function Home(){
             resizeMode="contain"
           />
         </View>
-
-        
         <View>
 
         </View>
-        
         </View>
        
         
